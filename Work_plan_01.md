@@ -1,4 +1,4 @@
-![image](planner.jpeg)
+![image](planner.jpg)
 ## 🌱 Step 1: Learning Roadmap (Priorities + Tools)
 
 ### 1. **Python (in depth)**
